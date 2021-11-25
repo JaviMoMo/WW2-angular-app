@@ -1,0 +1,61 @@
+<div class="contact-intro">
+  <h3>Contact us, send a comment!</h3>
+  <img src="https://www.womenofwwii.com/wp/wp-content/uploads/2016/09/marines10.jpg" alt="radio wwii">
+</div>
+<form novalidate (ngSubmit)="onSubmit()" [formGroup]="contactForm">
+  <fieldset>
+    <label for="name">Name: </label>
+    <input type="text" id="name" formControlName="name" />
+    <div
+      *ngIf="
+        !contactForm.get('name')?.valid &&
+        (contactForm.get('name')?.dirty || submitted)
+      "
+    >
+      WTF is your name bro?
+    </div>
+  </fieldset>
+  <fieldset>
+    <label for="email">Email: </label>
+    <input type="text" id="email" formControlName="email" />
+    <div
+      *ngIf="
+        !contactForm.get('email')?.valid &&
+        (contactForm.get('email')?.dirty || submitted)
+      "
+    >
+      WTF is your email bro?
+    </div>
+  </fieldset>
+  <fieldset>
+    <label for="country">Country: </label>
+    <input type="text" id="country" formControlName="country" />
+    <div
+      *ngIf="
+        !contactForm.get('country')?.valid &&
+        (contactForm.get('country')?.dirty || submitted)
+      "
+    >
+      Where are you living bro?
+    </div>
+  </fieldset>
+  <fieldset>
+    <label for="text">Your comment: </label>
+    <input class="input-text" type="text" id="text" formControlName="text" />
+    <div
+      *ngIf="
+        !contactForm.get('text')?.valid &&
+        (contactForm.get('text')?.dirty || submitted)
+      "
+    >
+      WTF are you talking to me bro?
+    </div>
+  </fieldset>
+
+  <button (click)="onButtonClick()" id="btn" type="submit" [disabled]="!contactForm?.valid">Send</button>
+</form>
+<div class="contact-send">
+  <h4>{{messageForm.text}}</h4>
+  <img src="{{messageForm.img.src}}" alt="{{messageForm.img.alt}}">
+</div>
+

@@ -1,4 +1,7 @@
 import { Component } from '@angular/core';
+import { NavElement, FooterElement } from './core/models/core';
+
+
 
 @Component({
   selector: 'app-root',
@@ -6,5 +9,31 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'ww2-app';
+ public nav: NavElement[] = [
+   {
+     name: "Home",
+     link: "/"
+   },
+   {
+    name: "Countries",
+    link: "/countries"
+  },
+  {
+    name: "War",
+    link: "/war"
+  },
+  {
+    name: "Results",
+    link: "/results"
+  },
+  {
+    name: "Contact",
+    link: "/contact"
+  }
+ ]
+ public footer: FooterElement = {
+   name: "Created by Javier Moreno Montejo",
+   text: "Upgrade Hub ©2021"
+ }
+ 
 }

@@ -1,0 +1,22 @@
+
+<div class="war-intro">
+    <h2>War battles</h2>
+    <img src="https://wallpapercave.com/wp/wp2096474.jpg" alt="spanish soldiers">
+</div>
+<div class="war-contain" *ngIf="battles">
+    <div class="battle-contain"
+    *ngFor="let battle of battles"
+    routerLink={{battle.id}}>
+        <h3>{{battle.id}}º - {{battle.title}}</h3>
+        <img src="{{battle.img}}" alt="{{battle.title}}">
+    </div>
+</div>
+<div class="war-video">
+    <h4>Resume video of the european theatre</h4>
+    <youtube-player class="video"
+    videoId="N4yxPEOGio4"
+    suggestedQuality="highres"
+    [width]="350"
+    [height]="250"
+    ></youtube-player>
+</div>

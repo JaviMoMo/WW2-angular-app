@@ -1,0 +1,12 @@
+<div class="battle-intro">
+    <h2>{{battle.title}}</h2>
+    <img src="{{battle.img}}" alt="{{battle.title}}">
+</div>
+<div class="battle-contain" *ngIf="battle">
+    <h2>{{battle.title}}</h2>
+    <div> 
+        <img src="{{battle.img}}" alt="{{battle.title}}">
+        <p>{{battle.text}}</p>
+    </div>
+    <h4>{{battle.victory}}</h4>
+</div>

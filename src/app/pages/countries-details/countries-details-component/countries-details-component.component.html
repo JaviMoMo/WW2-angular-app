@@ -1,0 +1,33 @@
+
+<div *ngIf="countrie">
+    <div class="country-intro">
+        <h3>{{countrie.name}}</h3>
+        <img src="{{countrie.flag}}" alt="{{countrie.name}}">
+    </div>
+    <div class="country-contain">
+        <div class="country-leader"*ngIf="countrie.politic">
+            <h5>Leader: </h5>
+            <ul >
+                <li>{{countrie.politic.name}}</li>
+                <li><img src="{{countrie.politic.img}}" alt="{{countrie.politic.name}}"></li>
+            </ul>
+            <div class="country-data">
+                <h5>- Stability: {{countrie.stability}}</h5>
+                <h5>- War Support: {{countrie.warSupport}}</h5>
+                <h5>- Alliance: {{countrie.alliance}}</h5>
+            </div>
+        </div>
+       
+        <div class="country-army" *ngIf="countrie.army">
+            <h5>- Army:</h5>
+            <ul>
+                <li><p>- Number at the beginning of the war: {{countrie.army.number}}</li>
+                <li><p>- Soldier uniform: </p><img src="{{countrie.army.soldier}}" alt="{{countrie.name}} soldier"></li>
+                <li><p>- Best war machine: </p><img src="{{countrie.army.machine}}" alt="{{countrie.name}} best machine"></li>
+            </ul>
+        </div>
+            
+        
+    </div>
+</div>
+

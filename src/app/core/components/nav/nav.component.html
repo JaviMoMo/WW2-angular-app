@@ -1,0 +1,14 @@
+<nav>
+    <input type="checkbox" id="check">
+    <label for="check" class="checkbtn">
+        <img src="https://www.pinclipart.com/picdir/big/181-1812493_menu-white-menu-button-png-clipart.png" alt="menu" class="fas fa-bars">
+    </label>
+    <div>
+        <img routerLink="/" src="../../../../assets/images/WWII.png" alt="wwii logo">
+    </div>
+    <ul>
+        <li *ngFor="let element of nav">
+            <a routerLink="{{element.link}}"> {{element.name}} </a>
+        </li>
+    </ul>
+</nav>

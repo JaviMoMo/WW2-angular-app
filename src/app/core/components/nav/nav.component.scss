@@ -1,0 +1,85 @@
+.checkbtn{
+    display: none;
+    font-size: 40px;
+    cursor: pointer;
+    img{
+        width: 50px;
+    }
+}
+
+
+
+#check{
+    display: none;
+}
+
+@media (max-width: 576px) {
+    .checkbtn{
+        display: flex;
+    }
+    ul{
+        display: flex;
+        flex-direction: column;
+        position: fixed;
+        width: 200px;
+        height: 70vh;
+        background: rgb(83, 83, 0);
+        z-index: 1;
+        top: 145px;
+        left: -100%;
+        transition: all .5s;
+        text-align: center;
+        border: black solid 5px;
+    }
+    
+    nav ul li a{
+        font-size: 30px;
+    }
+    li a:hover, li a.active{
+        background: none;
+        color: red;
+    }
+    #check:checked ~ ul{
+        left:0;
+    }
+}
+nav {
+    height: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    img{
+        width: 145px;
+    }
+    img:hover{
+        cursor: pointer;
+        opacity: 80%;
+    }
+    ul{
+        list-style: none;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        li a{
+            font-size: 20px;
+            text-transform: uppercase;
+            margin: 20px;
+            color:white;
+            text-decoration: none;
+        }
+        li a:hover{
+            border: white 2px solid;
+            border-radius: 30%;
+            color: olive;
+            font-weight: bolder;
+            transition: all 0.3s;
+            
+        }
+        
+    }
+    
+}
+

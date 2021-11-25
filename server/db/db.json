@@ -1,0 +1,296 @@
+{
+    "countries": [
+        
+                   {
+                        "id": 1,
+                        "name": "French Third Republic",
+                        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931958%29.svg/1920px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931958%29.svg.png",
+                        "politic": {
+                            "name": "Charles de Gaulle",
+                            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/De_Gaulle-OWI.jpg/800px-De_Gaulle-OWI.jpg"
+                        },
+                        "stability": "64%",
+                        "warSupport": "20%",
+                        "army": {
+                            
+                            "soldier": "https://i.redd.it/k4e4985w4ib21.jpg",
+                            "number": "770.000 soldiers",
+                            "machine": "https://upload.wikimedia.org/wikipedia/commons/7/79/SOMUA_S.35_%2823589369296%29.jpg"
+                        },
+                        "alliance": "Allied ✯"
+                    },
+                  {
+                        "id": 2,
+                        "name": "United Kingdom",
+                        "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1920px-Flag_of_the_United_Kingdom.svg.png",
+                        "politic": {
+                            "name": "Winston Churchill",
+                            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sir_Winston_Churchill_-_19086236948.jpg/800px-Sir_Winston_Churchill_-_19086236948.jpg"
+                        },
+                        "stability": "99%",
+                        "warSupport": "18%",
+                        "army": {
+                            
+                            "soldier": "https://i.pinimg.com/originals/44/fa/ef/44faef8ba3b08886d541a307aa821264.jpg",
+                            "number": "420.000 soldiers",
+                            "machine": "https://upload.wikimedia.org/wikipedia/commons/3/31/Ray_Flying_Legends_2005-1.jpg"
+                        },
+                        "alliance": "Allied ✯"
+                   
+                    },
+                    {  
+                        "id": 3,
+                        "name": "United States",
+                        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_the_United_States_%281912-1959%29.svg",
+                        "politic": {
+                            "name": "Franklin D. Roosevelt",
+                            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/800px-FDR_1944_Color_Portrait.jpg"
+                        },
+                        "stability": "99%",
+                        "warSupport": "13%",
+                        "army": {
+                            
+                            "soldier": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/French_soldiers_wearing_U.S._Army_World_War_II-era_uniforms_posing_at_Omaha_Beach%2C_2014.jpg/1280px-French_soldiers_wearing_U.S._Army_World_War_II-era_uniforms_posing_at_Omaha_Beach%2C_2014.jpg",
+                            "number": "374.000 soldiers",
+                            "machine": "https://upload.wikimedia.org/wikipedia/commons/4/45/Garand.jpg"
+                        },
+                        "alliance": "Allied ✯"
+                    },
+                    {
+                        "id": 4,
+                        "name": "German Reich",
+                        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/1920px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png",
+                        "politic": {
+                            "name": "Adolf Hitler",
+                            "img": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Hitler_portrait_crop.jpg"
+                        },
+                        "stability": "84%",
+                        "warSupport": "88%",
+                        "army": {
+                            
+                            "soldier": "https://i.pinimg.com/originals/76/3c/91/763c91130196b5aedd43a3bbb11de804.jpg",
+                            "number": "1.100.000 soldiers",
+                            "machine": "https://upload.wikimedia.org/wikipedia/commons/3/39/MG42_Sideview_2.jpg"
+                        },
+                        "alliance": "Axis 卐"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Kingdom of Italy",
+                        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Italy_%281861-1946%29_crowned.svg/1920px-Flag_of_Italy_%281861-1946%29_crowned.svg.png",
+                        "politic": {
+                            "name": "Benito Mussolini",
+                            "img": "https://upload.wikimedia.org/wikipedia/commons/6/67/Mussolini_biografia.jpg"
+                        },
+                        "stability": "96%",
+                        "warSupport": "98%",
+                        "army": {
+                            
+                            "soldier": "https://i.pinimg.com/originals/13/c1/af/13c1af7adbcb8e50114f879bc989eb44.jpg",
+                            "number": "590.000 soldiers",
+                            "machine": "https://upload.wikimedia.org/wikipedia/commons/7/74/Beretta_1934.jpg"
+                        },
+                        "alliance": "Axis 卐"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Union of Soviet Socialist Republics",
+                        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_the_Soviet_Union_%281924%E2%80%931955%29.svg/1920px-Flag_of_the_Soviet_Union_%281924%E2%80%931955%29.svg.png",
+                        "politic": {
+                            "name": "Joseph Stalin",
+                            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stalin_Full_Image.jpg/400px-Stalin_Full_Image.jpg"
+                        },
+                        "stability": "83%",
+                        "warSupport": "98%",
+                        "army": {
+                            
+                            "soldier": "https://i.pinimg.com/originals/52/fa/da/52fada1bcff447e78b82e638c1f046ae.jpg",
+                            "number": "2.030.000 soldiers",
+                            "machine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Char_T-34.jpg/1280px-Char_T-34.jpg"
+                        },
+                        "alliance": "Comintern ☭"
+                    }
+    ],
+    "war": [
+        {
+            "id": 1,
+            "title": "Poland invasion",
+            "img": "https://encyclopedia.ushmm.org/images/large/6f64cd83-2013-4aa2-9574-2421cdbde257.gif.pagespeed.ce._78Bn6OpOX.gif",
+            "text": "The invasion of Poland (1 September – 6 October 1939), also known as the September campaign (Polish: Kampania wrześniowa), 1939 defensive war (Polish: Wojna obronna 1939 roku) and Poland campaign (German: Überfall auf Polen, Polenfeldzug), was an attack on the Republic of Poland by Nazi Germany and the Soviet Union which marked the beginning of World War II. The German invasion began on 1 September 1939, one week after the signing of the Molotov–Ribbentrop Pact between Germany and the Soviet Union, and one day after the Supreme Soviet of the Soviet Union had approved the pact.[13] The Soviets invaded Poland on 17 September. The campaign ended on 6 October with Germany and the Soviet Union dividing and annexing the whole of Poland under the terms of the German–Soviet Frontier Treaty.",
+            "victory": "Axis victory"
+        },
+        {
+            "id": 2,
+            "title": "Benelux invasion",
+            "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/13119541/image/34d8654bcab0980e209cdd931a18e1dc",
+            "text": "In May 1940, the Germans launched the Battle of France. The Western Allies (primarily the French, Belgian and British land forces) soon collapsed under the onslaught of the so-called 'blitzkrieg' strategy. The majority of the British and elements of the French forces escaped at Dunkirk. With the fighting ended, the Germans began to consider ways of resolving the question of how to deal with Britain. If the British refused to agree to a peace treaty, one option was to invade. However, Nazi Germany's Kriegsmarine, had suffered serious losses in Norway, and in order to even consider an amphibious landing, Germany's Air Force (the Luftwaffe) had to first gain air superiority or air supremacy.",
+            "victory": "Axis victory"
+        },
+        {
+            "id": 3,
+            "title": "Battle of France",
+            "img": "https://notialternativo.files.wordpress.com/2013/09/83f91-fallgelb1.jpg",
+            "text": "The Battle of France (French: bataille de France) [10 May – 25 June 1940] also known as the Western Campaign (Westfeldzug) the French Campaign, (German: Frankreichfeldzug, French: campagne de France) and the Fall of France, was the German invasion of France, Belgium, Luxembourg and the Netherlands during the Second World War. On 3 September 1939, France had declared war on Germany, following the German invasion of Poland. In early September 1939, France began the limited Saar Offensive and by mid-October had withdrawn to their start lines. German armies invaded Belgium, Luxembourg and the Netherlands on 10 May 1940 and Italy entered the war on 10 June. France and the Low Countries were conquered, ending land operations on the Western Front until the Normandy landings on 6 June 1944.",
+            "victory": "Axis victory"
+        },
+        {
+            "id":4,
+            "title": "Vichy France",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/France_map_Lambert-93_with_regions_and_departments-occupation.svg/1024px-France_map_Lambert-93_with_regions_and_departments-occupation.svg.png",
+            "text": "France is made into a puppet state of Germany",
+            "victory":"Vichy France (French: Régime de Vichy; 10 July 1940 – 9 August 1944) is the common name of the French State (État français) headed by Marshal Philippe Pétain during World War II. The regime was authoritarian, xenophobic, antisemitic and traditionalist in nature. Officially independent, it adopted a policy of collaboration with Nazi Germany, which occupied its northern and western portions before occupying the remainder of Metropolitan France in November 1942. Though Paris was ostensibly its capital, the Vichy government established itself in the resort town of Vichy in the unoccupied 'Free Zone' (zone libre), where it remained responsible for the civil administration of France as well as its colonies."
+        },
+        {
+            "id":5,
+            "title": "Scandinavian invasion",
+            "img": "https://encyclopedia.ushmm.org/images/large/2a0ec5d3-f9b1-498f-be02-1a05c8e59f4a.gif.pagespeed.ce.S_KAttNr2p.gif",
+            "text":"In the early morning of 9 April 1940 (Wesertag, 'Weser Day'), Germany occupied Denmark and invaded Norway, ostensibly as a preventive manoeuvre against a planned, and openly discussed, French-British occupation of Norway known as Plan R 4 (actually developed as a response to any German aggression against Norway). After the occupation of Denmark (the Danish military was ordered to stand down as Denmark did not declare war with Germany), envoys of the Germans informed the governments of Denmark and Norway that the Wehrmacht had come to protect the countries' neutrality against Franco-British aggression. Significant differences in geography, location and climate between the two nations made the actual military operations very dissimilar.",
+            "victory": "Axis victory"
+        },
+        {
+            "id":6,
+            "title": "Battle of Britain",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Battle_of_Britain_map.svg/800px-Battle_of_Britain_map.svg.png",
+            "text": "The Battle of Britain, also known as the Air Battle for England (German: die Luftschlacht um England), was a military campaign of the Second World War, in which the Royal Air Force (RAF) and the Fleet Air Arm (FAA) of the Royal Navy defended the United Kingdom (UK) against large-scale attacks by Nazi Germany's air force, the Luftwaffe. It has been described as the first major military campaign fought entirely by air forces.[15] The British officially recognise the battle's duration as being from 10 July until 31 October 1940, which overlaps the period of large-scale night attacks known as the Blitz, that lasted from 7 September 1940 to 11 May 1941.[16] German historians do not accept this subdivision and regard the battle as a single campaign lasting from July 1940 to June 1941, including the Blitz",
+            "victory": "Allied victory"
+        },
+        {
+            "id": 7,
+            "title": "Battle of Greece",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Triple_Occupation_of_Greece.png",
+            "text":"The German invasion of Greece, also known as the Battle of Greece or Operation Marita (German: Unternehmen Marita[17]), is the attack of Allied Greece by Fascist Italy and Nazi Germany during World War II.The Italian invasion in October 1940, which is usually known as the Greco-Italian War, was followed by the German invasion in April 1941. German landings on the island of Crete (May 1941) came after Allied forces had been defeated in mainland Greece. These battles were part of the greater Balkans Campaign of the Axis powers and their associates.",
+            "victory": "Axis victory"
+        },
+        {
+            "id": 8,
+            "title": "Yugoslavia invasion",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/PlandeAtaqueAlem%C3%A1nContraYugoslaviaAbrilDe1941.svg/400px-PlandeAtaqueAlem%C3%A1nContraYugoslaviaAbrilDe1941.svg.png",
+            "text":"The invasion of Yugoslavia, also known as the April War[a] or Operation 25,[b] was a German-led attack on the Kingdom of Yugoslavia by the Axis powers which began on 6 April 1941 during World War II. The order for the invasion was put forward in 'Führer Directive No. 25', which Adolf Hitler issued on 27 March 1941, following a Yugoslav coup d'état that overthrew the pro-Axis government.",
+            "victory": "Axis victory"
+        },
+        {
+            "id":9,
+            "title": "Operation Barbarossa",
+            "img": "https://m.media-amazon.com/images/I/51cjRr72FjL.jpg",
+            "text":"Operation Barbarossa (German: Unternehmen Barbarossa), also known as the German invasion of the Soviet Union, was the code name for the invasion of the Soviet Union by Nazi Germany and some of its Axis allies, which started on Sunday, 22 June 1941, during World War II. The operation put into action Nazi Germany's ideological goal of conquering the western Soviet Union so as to repopulate it with Germans. The German Generalplan Ost aimed to use some of the conquered people as slave labour for the Axis war effort while acquiring the oil reserves of the Caucasus as well as the agricultural resources of various Soviet territories. Their ultimate goal included the eventual extermination, enslavement, Germanization and mass deportation to Siberia of the Slavic peoples, and to create more Lebensraum (living space) for Germany",
+            "victory": "Axis fail"
+        },
+        {
+            "id": 10,
+            "title": "Battle of Moscow",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/a/ad/RIAN_archive_887721_Defense_of_Moscow.jpg",
+            "text": "The Battle of Moscow was a military campaign that consisted of two periods of strategically significant fighting on a 600 km (370 mi) sector of the Eastern Front during World War II. It took place between October 1941 and January 1942. The Soviet defensive effort frustrated Hitler's attack on Moscow, the capital and largest city of the Soviet Union. Moscow was one of the primary military and political objectives for Axis forces in their invasion of the Soviet Union.",
+            "victory": "Comintern victory"
+        },
+        {
+            "id":11,
+            "title": "Siege of Leningrad",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/9/91/Anti_aircraft_Leningrad_1941.JPG",
+            "text":"The siege of Leningrad (Russian: блокада Ленинграда; German: Leningrader Blockade) was a prolonged military blockade undertaken from the south by the Army Group North of Nazi Germany against the Soviet city of Leningrad (now Saint Petersburg) on the Eastern Front in World War II. The Finnish army invaded from the north, co-operating with the Germans. Also co-operating with the Germans after August 1942 was the Spanish Blue Division. It was transferred to the southeastern flank of the siege of Leningrad, just south of the Neva near Pushkin, Kolpino and its main intervention was in Krasny Bor in the Izhora River area.",
+            "victory": "Comintern victory"
+        },
+        {
+            "id":12,
+            "title": "Case Blue",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Eastern_Front_1942-05_to_1942-11.png",
+            "text":"Case Blue (German: Fall Blau)[10] was the German Armed Forces' name for its plan for the 1942 strategic summer offensive in southern Russia between 28 June and 24 November 1942, during World War II. The objective was to capture the oil fields of Baku, Azerbaijan SSR and deny their use to the Soviet Union, thereby bringing about the complete collapse of the Soviet war effort.",
+            "victory": "Axis fail"            
+        },
+        {
+            "id": 13,
+            "title": "Battle of Stalingrad",
+            "img": "https://cdn.britannica.com/s:740x416,c:crop/54/199954-050-51845DAC/soldiers-Soviet-offensive-troops-German-Battle-of-February-1943.jpg",
+            "text":"In the Battle of Stalingrad (23 August 1942 – 2 February 1943),[17][18][19] Germany and its allies fought the Soviet Union for control of the city of Stalingrad (now Volgograd) in Southern Russia. Marked by fierce close-quarters combat and direct assaults on civilians in air raids, it is one of the bloodiest battles in the history of warfare, with an estimated 2 million total casualties.[20] After their defeat at Stalingrad, the German High Command had to withdraw considerable military forces from other theaters of war to replace their losses",
+            "victory": "Comintern victory"            
+        },
+        {
+            "id": 14,
+            "title": "Battle of Kursk",
+            "img": "https://static.themoscowtimes.com/image/1360/81/dfsrgvsd.jpg",
+            "text": "The Battle of Kursk was a Second World War engagement between German and Soviet forces on the Eastern Front near Kursk (450 kilometres or 280 miles south-west of Moscow) in the Soviet Union, during July and August 1943. The battle began with the launch of the German offensive Operation Citadel (German: Unternehmen Zitadelle), on 5 July, which had the objective of pinching off the Kursk salient with attacks on the base of the salient from north and south simultaneously. After the German offensive stalled on the northern side of the salient, on 12 July the Soviets commenced their Kursk Strategic Offensive Operation with the launch of Operation Kutuzov (Russian: Кутузов) against the rear of the German forces on the same side. On the southern side, the Soviets also launched powerful counterattacks the same day, one of which led to a large armoured clash, the Battle of Prokhorovka. On 3 August, the Soviets began the second phase of the Kursk Strategic Offensive Operation with the launch of Operation Polkovodets Rumyantsev (Russian: Полководец Румянцев) against the German forces on the southern side of the salient.",
+            "victory": "Comintern victory"
+        },
+        {
+            "id":15,
+            "title": "Soviet push",
+            "img": "https://i0.wp.com/the-past.com/wp-content/uploads/2021/05/post-1_image3-30-scaled.jpg?w=1500&ssl=1",
+            "text":"Soviet forces took the offensive after the spectacular defeat of Army Group Centre following Operation Bagration in 1944 from which the Wehrmacht forces never recovered. In the winter of 1944 they pushed the German front lines back across Poland, with heavy casualties on both sides. That winter would turn out to be a bloody one, as the fighting came closer to Germany. Stalin had wanted to settle the score since Hitler's breach of their non-aggression pact. Using his Marshals Zhukov and Konev, he was determined to beat Eisenhower to Berlin and the Reichstag.",
+            "victory": "Comintern victory"           
+        },
+        {
+            "id":16,
+            "title": "Operation Overlord",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/NormandySupply_edit.jpg/1280px-NormandySupply_edit.jpg",
+            "text": "Operation Overlord was the codename for the Battle of Normandy, the Allied operation that launched the successful invasion of German-occupied Western Europe during World War II. The operation was launched on 6 June 1944 with the Normandy Landings (D-Day). A 1,200-plane airborne assault preceded an amphibious assault involving more than 5,000 vessels. Nearly 160,000 troops crossed the English Channel on 6 June, and more than two million Allied troops were in France by the end of August.",
+            "victory": "Allied victory"          
+        },
+        {
+            "id":17,
+            "title": "Operation Market Garden",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Waves_of_paratroops_land_in_Holland.jpg/1280px-Waves_of_paratroops_land_in_Holland.jpg",
+            "text": "Operation Market Garden was an allied military operation of limited success during the Second World War that was fought in the Netherlands from 17 to 25 September 1944. The airborne operation was planned and undertaken by the First Allied Airborne Army with the land operation by XXX Corps of the British Second Army.[8] The objective was to create a 64 mi (103 km) salient into German territory with a bridgehead over the River Rhine, creating an Allied invasion route into northern Germany.[9] This was to be achieved by seizing a series of nine bridges with combined US and British airborne forces, with land forces swiftly following over the bridges. The operation succeeded in liberating the Dutch cities of Eindhoven and Nijmegen along with many towns, and limiting V-2 rocket launching sites. It failed, however, to secure a bridgehead over the Rhine, with the advance being halted at the river.",
+            "victory": "Allied victory"            
+        },
+        {
+            "id":18,
+            "title": "Battle of the Bulge",
+            "img": "https://www.history.com/.image/t_share/MTY4ODM1OTUzODc0NDQ1NzQ3/battle-of-the-bulge-gettyimages-1145025329.jpg",
+            "text": "The Battle of the Bulge, also known as the Ardennes Counteroffensive, was a major German offensive campaign on the Western Front during World War II which took place from 16 December 1944 to 25 January 1945. It was launched through the densely forested Ardennes region between Belgium and Luxembourg towards the end of the war in Europe. The offensive was intended to stop Allied use of the Belgian port of Antwerp and to split the Allied lines, allowing the Germans to encircle and destroy the four Allied forces and cause the Allies to negotiate a peace treaty in the Axis powers' favor. The Battle of the Bulge remains among the most important battles of the war, along with Stalingrad, Operation Overlord, Monte Cassino, and Midway. It marked the last major offensive attempted by the Axis Powers on the Western front. After their defeat, Germany would retreat for the remainder of the war.",
+            "victory": "Allied victory"           
+        },
+        {
+            "id":19,
+            "title": "Battle of Berlin",
+            "img": "https://i0.wp.com/www.military-history.org/wp-content/uploads/2020/05/berlin-featured.jpg?fit=702%2C468&ssl=1",
+            "text": "The Battle of Berlin, designated as the Berlin Strategic Offensive Operation by the Soviet Union, and also known as the Fall of Berlin, was one of the last major offensives of the European theatre of World War II. After the Vistula–Oder Offensive of January–February 1945, the Red Army had temporarily halted on a line 60 km (37 mi) east of Berlin. On 9 March, Germany established its defence plan for the city with Operation Clausewitz. The first defensive preparations at the outskirts of Berlin were made on 20 March, under the newly appointed commander of Army Group Vistula, General Gotthard Heinrici. When the Soviet offensive resumed on 16 April, two Soviet fronts (army groups) attacked Berlin from the east and south, while a third overran German forces positioned north of Berlin. Before the main battle in Berlin commenced, the Red Army encircled the city after successful battles of the Seelow Heights and Halbe. On 20 April 1945, Hitler's birthday, the 1st Belorussian Front led by Marshal Georgy Zhukov, advancing from the east and north, started shelling Berlin's city centre, while Marshal Ivan Konev's 1st Ukrainian Front broke through Army Group Centre and advanced towards the southern suburbs of Berlin. On 23 April General Helmuth Weidling assumed command of the forces within Berlin. The garrison consisted of several depleted and disorganised Army and Waffen-SS divisions, along with poorly trained Volkssturm and Hitler Youth members. Over the course of the next week, the Red Army gradually took the entire city.",
+            "victory": "Comintern victory"           
+        }
+    ],
+    "results": [
+        {
+            "id":1,
+            "title": "Fall of Nazi Germany, Fascist Italy and Imperial Japan",
+            "img": "https://static.dw.com/image/18421335_303.jpg"   
+        },
+        {
+            "id":2,
+            "title": "Allied military occupations of Germany, Japan, Austria and foundation of the Italian Republic in place of the Kingdom of Italy",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Deutschland_Besatzungszonen_8_Jun_1947_-_22_Apr_1949.svg/250px-Deutschland_Besatzungszonen_8_Jun_1947_-_22_Apr_1949.svg.png"
+        },
+        {
+            "id":3,
+            "title": "Beginning of the Nuclear Age",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/5/54/Atomic_bombing_of_Japan.jpg"
+        },
+        {
+            "id":4,
+            "title": "Dissolution of the League of Nations and creation of the United Nations",
+            "img": "https://okdiario.com/img/2018/10/29/onu-1.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Beginning of the Cold War",
+            "img": "https://blogsaverroes.juntadeandalucia.es/pruebawordpress/files/2016/06/guerra-fria.png"
+        },
+        {
+            "id":6,
+            "title": "Reset chinese civil war",
+            "img": "https://64.media.tumblr.com/c5dfea8dfb514b3a8680c9902da66d7f/d8389543102d4147-a5/s1280x1920/087fcc2ccbb6a77f3193994253d67c1be0bd11e8.png"
+        },
+        {
+            "id":7,
+            "title": "Decolonization of Asia and Africa",
+            "img": "https://cmvtcivils.files.wordpress.com/2015/09/decolonization.jpg"
+        },
+        {
+            "id":8,
+            "title": "Corea Division",
+            "img": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2017/11/24/5fa3e567840af.jpeg"
+        },
+        {
+            "id":9,
+            "title": "Deaths",
+            "img": "https://topforeignstocks.com/wp-content/uploads/2016/04/World-War-2-Deaths-by-Country-Pie-Chart-2.png"
+        }
+    ]
+}

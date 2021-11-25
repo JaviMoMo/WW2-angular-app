@@ -1,0 +1,12 @@
+<div class="results-intro">
+    <h2>War Results</h2>
+    <img src="https://europa.eu/learning-corner/sites/default/files/ap_4505080202.jpg" alt="end of the war">
+</div>
+<div class="results-contain" *ngIf="results">
+    <div class="result-contain" *ngFor="let result of results">
+        <h4>{{result.id}}º - {{result.title}}</h4>
+        <img src="{{result.img}}" alt="{{result.title}}">
+    </div>
+
+</div>
+
